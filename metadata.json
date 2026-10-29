@@ -1,0 +1,6 @@
+{
+  "name": "Netwhile Futurecare",
+  "description": "Integrated solutions for manpower, solar, finance, security, IoT, and software development. Powering your future with future-ready solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
